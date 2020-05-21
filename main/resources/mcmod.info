@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chungusmod",
+  "name": "Chungus Mod",
+  "description": "Big Chungus in Minecraf.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Austin", "Other Group Members"],
+  "credits": "Big Chungus for being epic",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
